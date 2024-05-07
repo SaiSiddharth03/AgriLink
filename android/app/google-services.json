@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419658597459",
+    "project_id": "trial1-986b7",
+    "storage_bucket": "trial1-986b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419658597459:android:a05e85437608b68f07f2a6",
+        "android_client_info": {
+          "package_name": "com.example.a2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5x7qsP6u_RqSSakvbCK2GkkwepK64Xk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419658597459:android:f6d8e1ed07d9ac7c07f2a6",
+        "android_client_info": {
+          "package_name": "com.example.agrilink_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5x7qsP6u_RqSSakvbCK2GkkwepK64Xk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
